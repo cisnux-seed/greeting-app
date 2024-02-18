@@ -1,7 +1,9 @@
 package main
 
-import greeter "github.com/cisnux-seed/greeting"
+import "github.com/cisnux-seed/greeters/v2"
 
 func main() {
-	greeter.Greeting()
+	greeters.Greeters[greeters.Indonesia]("Fajra")
+	greeters.Greeters[greeters.UnitedStates]("Fajra")
+	greeters.Greeters[greeters.Spain]("Fajra")
 }

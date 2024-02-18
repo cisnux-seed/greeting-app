@@ -1,4 +1,6 @@
-github.com/cisnux-seed/greeting v0.0.1 h1:d0k90Mi5cZ7NDhzo6+83lW/KGkk42qsTG7UxXBKzKWc=
-github.com/cisnux-seed/greeting v0.0.1/go.mod h1:TeCCROBg1uOWUnGqalD5eNznDSNEOLdIdiNPcZDVPi0=
-github.com/cisnux-seed/greeting v0.0.2 h1:WwZR5nG9nU2+7aGA2wNGi29apcecKizzvy44upi1s5U=
-github.com/cisnux-seed/greeting v0.0.2/go.mod h1:TeCCROBg1uOWUnGqalD5eNznDSNEOLdIdiNPcZDVPi0=
+github.com/cisnux-seed/greeters v1.0.1 h1:UQqpgECTtmCT7LIonlgv3ySA9+2YRlAHK+pJsEadowM=
+github.com/cisnux-seed/greeters v1.0.1/go.mod h1:qb1AguTcMpcjRs9kQb9zU0ZI7aefithIU3coo33JeBw=
+github.com/cisnux-seed/greeters/v2 v2.0.0 h1:DfJr8ipAF4UomUcOZ1jwZl7XDdVzdoWiOJfLvCLQ5lg=
+github.com/cisnux-seed/greeters/v2 v2.0.0/go.mod h1:14mI4/QHF5Ee2/nwolNj1s3niVEi+4cXoLfXsh358EQ=
+github.com/cisnux-seed/greeters/v2 v2.0.1 h1:ekyVxwREaJDcFLHS9jfwBPlbzxjs9LdIbFWDctP3wJY=
+github.com/cisnux-seed/greeters/v2 v2.0.1/go.mod h1:14mI4/QHF5Ee2/nwolNj1s3niVEi+4cXoLfXsh358EQ=
